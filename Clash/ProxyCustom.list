@@ -3,6 +3,9 @@
 # homebrew
 DOMAIN-SUFFIX,brew.sh
 
+# docker
+DOMAIN-SUFFIX,docker.io
+
 # others
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,bulianglin.com
