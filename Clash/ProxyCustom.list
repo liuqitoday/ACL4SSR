@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,brew.sh
 
 # docker
 DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,api-license.orbstack.dev
 
 # others
 DOMAIN-SUFFIX,imgur.com
