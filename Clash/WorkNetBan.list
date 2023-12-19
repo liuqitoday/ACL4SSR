@@ -6,6 +6,8 @@ DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,smzdm.com
 DOMAIN-SUFFIX,hdslb.com
 
+DOMAIN-SUFFIX,cocopilot.org
+
 # Bilibili 哔哩哔哩
 USER-AGENT,Bilibili*
 USER-AGENT,bili*
